@@ -4,7 +4,7 @@
 - Technologies:
 HTML .CSS .JS
 - Libraries:
-react.js /
+react.js /Visual Studio Code
 
 
 <!---
